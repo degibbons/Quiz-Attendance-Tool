@@ -1,0 +1,14 @@
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\bin\Release\QuizAttendance.exe.config
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\bin\Release\QuizAttendance.exe
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\bin\Release\QuizAttendance.pdb
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\bin\Release\QuizAttendance.xml
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\obj\Release\Interop.VBScript_RegExp_10.dll
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\obj\Release\Interop.VBScript_RegExp_55.dll
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\obj\Release\QuizAttendance.vbproj.ResolveComReference.cache
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\obj\Release\QuizAttendance.Form1.resources
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\obj\Release\QuizAttendance.Resources.resources
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\obj\Release\QuizAttendance.vbproj.GenerateResource.cache
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\obj\Release\QuizAttendance.vbproj.CoreCompileInputs.cache
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\obj\Release\QuizAttendance.exe
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\obj\Release\QuizAttendance.xml
+C:\Users\daneg\source\repos\QuizAttendance\QuizAttendance\obj\Release\QuizAttendance.pdb
